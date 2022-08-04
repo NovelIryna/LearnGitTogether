@@ -19,7 +19,7 @@ Platforms:
 https://githowto.com/uk (ukr/eng/rus)
 https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud - BitBucket (_eng_)
 
-https://www.w3schools.com/git/ - w3schools (_ukr_)(_eng_)(_rus_)
+https://www.w3schools.com/git/ - w3schools (_ukr/eng/rus_)
 
 https://github.com/saraford/three-git-tips  - 
 
