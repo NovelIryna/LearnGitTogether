@@ -1,4 +1,4 @@
-# LearnGitTogether
+<!-- !LearnGitTogether  -->
 Awesome list of learn material on Git
 https://github.com/Learn-Together-Pro/LearnGitTogether 
 
